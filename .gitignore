@@ -1,0 +1,2 @@
+uploads/visitors/*
+!uploads/visitors/.gitkeep
