@@ -20,57 +20,9 @@ Editorial-styled visitor management for XAMPP (PHP + MySQL).
 
 ## Screenshots
 
-### Public pages
-
-#### Login
-![Login](docs/screenshots/01-login.png)
-
-#### Forgot password
-![Forgot password](docs/screenshots/02-forgot-password.png)
-
-#### User manual
-![User manual](docs/screenshots/03-manual.png)
-
-#### Visitor check-in (scan entrance QR)
 ![Visitor check-in](docs/screenshots/04-checkin.png)
 
-#### Visitor check-in form
-![Check-in form](docs/screenshots/05-checkin-form.png)
-
-### Admin / staff pages
-
-#### Dashboard
 ![Dashboard](docs/screenshots/06-dashboard.png)
-
-#### Visitors list
-![Visitors](docs/screenshots/07-visitors.png)
-
-#### Add visitor
-![Add visitor](docs/screenshots/08-visitor-form.png)
-
-#### Visitor detail
-![Visitor detail](docs/screenshots/09-visitor-view.png)
-
-#### Visitor badge
-![Badge](docs/screenshots/10-badge.png)
-
-#### Scan QR
-![Scan QR](docs/screenshots/11-scan.png)
-
-#### Entrance QR
-![Entrance QR](docs/screenshots/12-entrance-qr.png)
-
-#### Blacklist
-![Blacklist](docs/screenshots/13-blacklist.png)
-
-#### Activity log
-![Activity log](docs/screenshots/14-activity-log.png)
-
-#### Users
-![Users](docs/screenshots/15-users.png)
-
-#### Settings
-![Settings](docs/screenshots/16-settings.png)
 
 > Screenshots can be regenerated locally with: `python docs/capture_screenshots.py` (requires Selenium + Chrome).
 
